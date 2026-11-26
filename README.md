@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,50:92400E,100:0B1020&amp;height=220&amp;section=header&amp;text=BOLBTRADER&amp;fontSize=60&amp;fontColor=FBBF24&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=Forex%20%7C%20Crypto%20%7C%20Stocks%20%7C%20Gold&amp;descSize=20&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="BOLBTRADER banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,50:92400E,100:0B1020&amp;height=220&amp;section=header&amp;text=BOLDTRADER&amp;fontSize=60&amp;fontColor=FBBF24&amp;animation=twinkling&amp;fontAlignY=40&amp;desc=Forex%20%7C%20Crypto%20%7C%20Stocks%20%7C%20Gold&amp;descSize=20&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="BOLDTRADER banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=FBBF24&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=900&amp;height=100&amp;lines=JPY+Pairs+Specialist;XAUUSD+Gold+Trader;BTC+Market+Analyst;Options+%7C+GEX+%7C+Volatility;Risk-First+Execution" alt="Trading typing animation" />
 
