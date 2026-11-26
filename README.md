@@ -37,7 +37,7 @@ the markets with the same discipline: clear systems, measured risk, and continuo
 
 ---
 
-## Trading Focus: BOLBTRADER
+## Trading Focus: BOLDTRADER
 
 <div align="center">
 
